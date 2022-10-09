@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="413612cc-fbee-4d6d-8e6a-630c66e7f47b" name="Changes" comment="Expresion Lambda sin parametros" />
+    <list default="true" id="413612cc-fbee-4d6d-8e6a-630c66e7f47b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +75,7 @@
       <updated>1664748489557</updated>
       <workItem from="1664748491617" duration="3394000" />
       <workItem from="1665186906752" duration="593000" />
-      <workItem from="1665266089979" duration="2492000" />
+      <workItem from="1665266089979" duration="3186000" />
     </task>
     <task id="LOCAL-00001" summary="Expresion Lambda sin parametros">
       <created>1664750075243</created>
